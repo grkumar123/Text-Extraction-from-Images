@@ -11,5 +11,6 @@ Text extraction from image is a challenging task. However, we have already some 
 
 I have already a **.json** file in which "Bounding-box" for each word coordinates was already given.
 
-The json file is a list containg dictionary and many sub-dictionaries.
-Eg: [{'text':'ABC', 'polygon':{'x0':100, 'y0':200', 'x1':50, 'y1':60, 'x2':100, 'y2':100, 'x3':400, 'y3':400}}, {{'text':'ABC', 'polygon':{'x0':100, 'y0':200', 'x1':50, 'y1':60, 'x2':100, 'y2':100, 'x3':400, 'y3':400}}]
+The json file is a list containg dictionary and many sub-dictionaries. For example:
+ 
+[{'text':'ABC', 'polygon':{'x0':100, 'y0':200', 'x1':50, 'y1':60, 'x2':100, 'y2':100, 'x3':400, 'y3':400}}, {{'text':'ABC', 'polygon':{'x0':100, 'y0':200', 'x1':50, 'y1':60, 'x2':100, 'y2':100, 'x3':400, 'y3':400}}]
