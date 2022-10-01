@@ -1,6 +1,6 @@
 # Text-Extraction-from-Images
-![Figure 1](https://github.com/grkumar123/Text-Extraction-from-Images/blob/Sample/image1.jpg?raw=true)
-![Figyre 2](https://github.com/grkumar123/Text-Extraction-from-Images/blob/Sample/image2.jpg?raw=true)
+![Figure 1](https://github.com/grkumar123/Text-Extraction-from-Images/blob/Sample/image1.jpg)
+![Figure 2](https://github.com/grkumar123/Text-Extraction-from-Images/blob/Sample/image2.jpg)
 
 <img src="https://github.com/grkumar123/Text-Extraction-from-Images/blob/branch/image1.jpg?raw=true" width="250"> | <img src="https://github.com/grkumar123/Text-Extraction-from-Images/blob/branch/image2.jpg?raw=true" width="250">
 
